@@ -27,13 +27,29 @@
 
 **Link to work:** Old JS projects could be found <a href='https://github.com/cbituin' target='blank'>here</a>. The OPCODE repos could be found <a href='https://github.com/OperationCode' target='blank'>here</a>
 
-### Day 1: January 7, 2019
+### Day 13: January 19, 2019
 
 **Today's Progress**: Continued to look through the documentation in the OpCode repos; Also read through the specs for the Flatiron School "Tic Tac Toe with AI" CLI project. 
 
 **Thoughts:** Not a heavy <i>writing</i> code day, but I did <i>read</i> a fair amount of code. I read (and am still reading) through the documentation and codebase for OpCode, and read/still reading through the requirements and specs for my next Flatiron School project. It's important to me that I understand what needs to happen and what I need to do before I start typing until my fingers fall off. 
 
 **Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Repo to project. Still original code from fork - no updates yet.</a>
+
+### Day 14: January 20, 2019
+
+**Today's Progress**: UPDATES COMING SOON
+
+**Thoughts:** UPDATES COMING SOON
+
+**Link to work:** UPDATES COMING SOON
+
+### Day 15: January 21, 2019
+
+**Today's Progress**: UPDATES COMING SOON
+
+**Thoughts:** UPDATES COMING SOON
+
+**Link to work:** UPDATES COMING SOON
 
 <!--### Day 1: January 7, 2019-->
 
