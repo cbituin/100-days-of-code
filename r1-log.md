@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Conrad Bituin
+<!--# #100DaysOfCode Log - Round 1 - Conrad Bituin-->
 
 <!--The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].-->
 
