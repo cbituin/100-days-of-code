@@ -102,6 +102,16 @@
 
 **Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
 
+### Day 23: January 28, 2019
+
+**Today's Progress:** Moving on to CLI interface!
+
+**Thoughts:** Finally moving on to configuring the CLI interface, and creating the user interaction elements. As I was troubleshooting my previous issues with the methods involved, I realized I had to work backwards a few methods. It turns out that the two class methods prior to the class method I was troubleshooting (because recursion) were not providing the correct return values. This led to the "troubled" class method not returning the correct value because it wasn't accepting a correct value in the first place. 
+
+Now, all specs have passed and all there is left to do is to create the interactive side of the CLI app!
+
+**Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
+
 <!--### Day 21: January 26, 2019-->
 
 <!--**Today's Progress:** UPDATES COMING SOON-->
