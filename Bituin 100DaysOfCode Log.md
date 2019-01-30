@@ -112,6 +112,22 @@ Now, all specs have passed and all there is left to do is to create the interact
 
 **Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
 
+### Day 24: January 29, 2019
+
+**Today's Progress:** Attempted to refactor codebase.
+
+**Thoughts:** Not a very productive day - I attempted to refactor the code I had, but didn't really make any changes. At least I have a better grasp of my methods and what is going on in my code!
+
+**Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
+
+### Day 25: January 30, 2019
+
+**Today's Progress:** CLI started.
+
+**Thoughts:** I started to work on the interactions today. Struggling through remembering how to call various methods within the classes, and in what order to put them in. Also working through 'game rules' and implementing game logic within /bin. 
+
+**Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
+
 <!--### Day 21: January 26, 2019-->
 
 <!--**Today's Progress:** UPDATES COMING SOON-->
