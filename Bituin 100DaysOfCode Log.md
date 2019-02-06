@@ -128,6 +128,14 @@ Now, all specs have passed and all there is left to do is to create the interact
 
 **Link to work:** <a href="https://github.com/cbituin/ttt-with-ai-project-v-000" target="blank">Tic Tac Toe with AI project - Flatiron School Lab</a>
 
+### Day 01: February 06, 2019
+
+**Today's Progress:** Started on Student Scraper project on Learn.Co. Restarted #100daysofcode challenge.
+
+**Thoughts:** Life happens(happened/is happening)! With two kids under three and a full-time+ job, time got away from me. It's been nearly a week since I could get an hour or more of work done on projects/lessons. After getting 25% of the way through the challenge, I have started over. I have a good feeling about this iteration, though. The previous iteration helped me get into a groove, and it taught me a few lessons about time management in regard to development and side projects. Here's to making it to 100 days!
+
+**Link to work:** <a href="https://github.com/cbituin/oo-student-scraper-v-000" target="blank">Student Scraper project - Flatiron School Lab</a>-->
+
 <!--### Day 21: January 26, 2019-->
 
 <!--**Today's Progress:** UPDATES COMING SOON-->
