@@ -15,7 +15,13 @@
 
 **Thoughts:** Was not as successful last go around, but this time I've got more momentum! I've progressed a bit in my Flatiron School program, so I am able to work on more projects. In addition, I am working on an open source project with Operation Code! I'll add more details soon, but exciting times ahead!
 
-**Link to work:** UPDATES COMING SOON
+For actual coding time, worked through ORM lab via Flatiron. Moving on to Dynamic ORMs!
+
+![Alt Text](https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif)
+
+**Link to work:** https://github.com/cbituin/bringing-it-all-together-v-000
+
+<hr>
 
 First round notes below. Unsuccessful! Trying again!
 
@@ -28,7 +34,7 @@ First round notes below. Unsuccessful! Trying again!
 <!--I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.-->
 
 **Link to work:** UPDATES COMING SOON
-<!--[Calculator App](http://www.example.com)-->
+[Calculator App](http://www.example.com)
 
 ### Day 11: January 17, 2019
 

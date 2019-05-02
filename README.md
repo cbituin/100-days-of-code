@@ -3,7 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](r1-log.md)
+* [Log - click here to see my progress](Bituin_100DaysOfCode_Log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
