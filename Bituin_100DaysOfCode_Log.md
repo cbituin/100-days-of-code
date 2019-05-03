@@ -9,6 +9,16 @@
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
 
+### Day 2: May 2, 2019
+
+![Alt Text](https://pbs.twimg.com/profile_images/820688452039614465/QOOekCzS_400x400.jpg)
+
+**Today's Progress**: First meeting with devteam for OpCode open-source repo project done. Work through Dynamic ORMs lab via Flatiron. Played with Figma. 
+
+**Thoughts:** Things are moving along, and I am getting more involved with actual coding. I am progressing through the Flatiron program, but I am also starting to work with some great people in the Operation Code organization. Currently working on a project to make OpCode podcasts available via the website. 
+
+**Link to work:** Not my work (yet!), but a great organization supporting Veterans in technology! OperationCode.org(https://github.com/OperationCode)
+
 ### Day 1: May 1, 2019
 
 **Today's Progress**: Restarting 100 days of code!
