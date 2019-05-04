@@ -9,13 +9,24 @@
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
 
-### Day 2: May 2, 2019
+### Day 3: May 3, 2019
 
-![Alt Text](https://pbs.twimg.com/profile_images/820688452039614465/QOOekCzS_400x400.jpg)
+
+**Today's Progress**: Worked through a few more sections in the curriculum, and started Dynamic ORM Lab.  
+
+**Thoughts:** Tired! It's Friday night, but no excuses! Worked through a few more lessons (that I will probably have to review again in the morning), and I started another lab assignment. I could push through, but I don't think the learning will be as effective. Clocking my hour for now, so I can live to code another day. 
+
+![Gif of baby falling asleep](https://media1.tenor.com/images/4c0ea0163a7bcdf118889bdf738c010d/tenor.gif)
+
+**Link to work:** https://github.com/cbituin/dynamic-orm-lab-v-000
+
+### Day 2: May 2, 2019
 
 **Today's Progress**: First meeting with devteam for OpCode open-source repo project done. Work through Dynamic ORMs lab via Flatiron. Played with Figma. 
 
 **Thoughts:** Things are moving along, and I am getting more involved with actual coding. I am progressing through the Flatiron program, but I am also starting to work with some great people in the Operation Code organization. Currently working on a project to make OpCode podcasts available via the website. 
+
+![Operation Code Logo](https://pbs.twimg.com/profile_images/820688452039614465/QOOekCzS_400x400.jpg)
 
 **Link to work:** Not my work (yet!), but a great organization supporting Veterans in technology! OperationCode.org(https://github.com/OperationCode)
 
@@ -27,7 +38,7 @@
 
 For actual coding time, worked through ORM lab via Flatiron. Moving on to Dynamic ORMs!
 
-![Alt Text](https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif)
+![Gif of fast typing](https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif)
 
 **Link to work:** https://github.com/cbituin/bringing-it-all-together-v-000
 
