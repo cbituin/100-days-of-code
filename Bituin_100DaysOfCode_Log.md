@@ -9,6 +9,17 @@
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
 
+### Day 4: May 4, 2019
+
+
+**Today's Progress**: Finished ORMs section of curriculum, and worked on ActiveRecord section. Also working with Figma to create a mockup of a project for OperationCode. 
+
+**Thoughts:**  Making good progress so far this weekend. Had to balance working on the curriculum and taking care of two kids. In the end, I think I managed to alternate well - a little play, a little work, and repeat!
+
+![There are no weekends off when you're chasing your goals.](https://i.pinimg.com/236x/0f/0f/24/0f0f24e7ec8867d8188bd2afecf17e61.jpg)
+
+**Link to work:** https://github.com/cbituin
+
 ### Day 3: May 3, 2019
 
 
