@@ -8,6 +8,24 @@
 
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
+### Day 6: May 6, 2019
+
+
+**Today's Progress**: Completed lesson on migrations in ActiveRecord. 
+
+**Thoughts:**  A quick hour completing the lesson on Migrations in ActiveRecord. I don't have a "warm and fuzzy" feeling about migrations, so I'll be coming back to review. 
+
+![So confused!](https://media0.giphy.com/media/a0FuPjiLZev4c/giphy.gif)
+
+**Link to work:** https://github.com/cbituin
+
+### Day 5: May 5, 2019
+
+**Today's Progress**: Not a lot of "real" coding. Learning and a few practice exercises.
+
+**Thoughts:**  Family sick, so family first! Still working to get some review and practice in. Took a look at a few other resources, but need to keep the momentum going on becoming a software engineer!
+
+**Link to work:** https://github.com/cbituin
 
 ### Day 4: May 4, 2019
 
