@@ -8,6 +8,27 @@
 
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
+
+### Day 8: May 8, 2019
+
+**Today's Progress**: Small amounts of design work, small amounts of coding and trying out new systems, and started reading the specs for my next Learn.co lab.
+
+**Thoughts:**  Every. little. bit. counts.
+
+![Busy busy!](https://media3.giphy.com/media/durBXd2ddMWic/giphy.gif)
+
+**Link to work:** https://github.com/cbituin
+
+### Day 7: May 7, 2019
+
+**Today's Progress**: More "non-coding" coding work. Did some reading courtesy of No Starch Press, and read through repos that weren't mine. 
+
+**Thoughts:**  Even though with the full time+ jobs and two kids and life, I'm pushing myself to keep learning and getting better as a developer. For me, sometimes that consists of reading and learning code more than writing it. It's not much, but it'll do!
+
+![Busy busy!](https://media0.giphy.com/media/3GYmecuz4ncOc/giphy.gif)
+
+**Link to work:** https://github.com/cbituin
+
 ### Day 6: May 6, 2019
 
 
