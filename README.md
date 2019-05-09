@@ -2,8 +2,9 @@
 
 ## Contents
 
-* [Rules](rules.md)
 * [Log - click here to see my progress](Bituin_100DaysOfCode_Log.md)
+
+* [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
