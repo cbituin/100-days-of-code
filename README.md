@@ -2,7 +2,9 @@
 
 ## Contents
 
-* [Log - click here to see my progress](Bituin_100DaysOfCode_Log.md)
+* [Log - click here to see my progress](Bituin_100DaysOfCode_Log.md)<br>
+
+![Coffee and typing](https://media1.giphy.com/media/7srpeY4TZMrO8/giphy.gif)
 
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
