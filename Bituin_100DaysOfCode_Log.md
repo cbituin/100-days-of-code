@@ -9,6 +9,30 @@
 <!--**Link to work:** UPDATES COMING SOON-->
 <!--[Calculator App](http://www.example.com)-->
 
+### Day 11: May 11, 2019
+
+**Today's Progress:** Finished the Migrations Lab! Also tried to read through Operation Code Front End again. 
+
+**Thoughts:** Had to review the ActiveRecord docs to finish the lab. I've also got a better idea for how to move forward with our project for Operation Code.
+
+**Link to work:** https://github.com/cbituin
+
+### Day 10: May 10, 2019
+
+**Today's Progress:** Started reading Practical SQL
+
+**Thoughts:** Not much done because, you know, life. I'm still counting this as a day on my streak since I managed to do something dev-related - more about the habit and continual learning for me, though!
+
+**Link to work:** https://github.com/cbituin
+
+### Day 9: May 9, 2019
+
+**Today's Progress:** Read through Operation Code Front End (or tried to anyway). Worked on the Learn.co ActiveRecord Migrations lab. 
+
+**Thoughts:** ActiveRecord is making no sense at this point. Also, neither is the Operation Code Front End. It's late, and I've got a cold. I'll try again when I'm refreshed. 
+
+**Link to work:** https://github.com/cbituin
+
 ### Day 8: May 8, 2019
 
 **Today's Progress**: Small amounts of design work, small amounts of coding and trying out new systems, and started reading the specs for my next Learn.co lab.
